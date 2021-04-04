@@ -1,1 +1,1 @@
-<? include_once('praktikum_bootstrap.html');
+<? include_once(praktikum_bootsrap.html);
